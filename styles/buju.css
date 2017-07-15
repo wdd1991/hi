@@ -73,9 +73,9 @@
 
         }
         #content{
-            padding: 0 200px;
+            padding-left:100px;
             overflow: hidden;
-            
+            margin: 0 auto;
         }
         
         #middle{
@@ -170,7 +170,7 @@
        	height: 100%;
        	position: relative;
        	top: 70px;
-       	text-align: left;
+       	text-align: centent;
        }
        #right span{
        	color: yellow;
@@ -180,7 +180,7 @@
        }
        .window{
        	margin-top: 20px;
-       	height: 230px;
+       	height: 300px;
        }
        .window img{
        	width: 100%;
